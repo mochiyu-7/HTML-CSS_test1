@@ -11,8 +11,19 @@
   width: :480px;
 }
 
-.submit{
-  font-size: 3rem
+
+
+.button{
+  text-align: center;
+}
+.button button{
+  background-color: #008B8B;
+  padding: 10px;
   color: #fff;
-  background-color: #008b8b
+  border: none;
+  font-size: 3rem;
+  margin-bottom: 120px;
+}
+.button button:hover{
+  opacity: 0.5;
 }
